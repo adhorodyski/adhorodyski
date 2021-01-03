@@ -2,6 +2,6 @@
 
 - 🔭 Building software at Tanz.
 - :zap: Following lean startup principles.
-- 🌱 Currently learning Rust 🦀, framer-motion & visualizations with threejs.
+- 🌱 Currently learning Svelte, Rust 🦀 & visualizations with threejs.
 - :no_mouth: Fun fact: started coding to create a social media platform. Yes, another one.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adam-horodyski/)
