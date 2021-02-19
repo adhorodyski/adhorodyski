@@ -1,7 +1,7 @@
-### The question is not "can it be built?", but "should it be built?". :hourglass_flowing_sand:
+### Don't reinvent the wheel. rly
 
-- 🔭 Building software at Tanz.
+- 🔭 Building software at SwarmQA.
 - :zap: Following lean startup principles.
-- 🌱 Currently learning Svelte, Rust 🦀 & visualizations with threejs.
+- 🌱 Currently learning Next & (too little) Rust 🦀.
 - :no_mouth: Fun fact: started coding to create a social media platform. Yes, another one.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adam-horodyski/)
