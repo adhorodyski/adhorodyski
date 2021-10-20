@@ -2,6 +2,6 @@
 
 - 🔭 Building software at SwarmQA.
 - :zap: Following lean startup principles.
-- 🌱 Currently learning Next & (too little) Rust 🦀.
+- 🌱 Currently learning Go.
 - :no_mouth: Fun fact: started coding to create a social media platform. Yes, another one.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adam-horodyski/)
