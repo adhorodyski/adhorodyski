@@ -2,6 +2,5 @@
 
 - 🔭 Building software at SwarmQA.
 - :zap: Following lean startup principles.
-- 🌱 Currently learning Saleor & some Python.
 - :no_mouth: Fun fact: started coding to create a social media platform. Yes, another one.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adam-horodyski/)
